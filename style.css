@@ -58,3 +58,21 @@ nav a{
 .active:hover{
     color: var(--sec-2);
 }
+
+.home-container{
+    height: 600px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    padding: 20px 10%;
+}
+
+.name{
+    color: var(--fc-2);
+    text-decoration: none;
+    transition: 0.4s;
+}
+
+.name:hover{
+    color: var(--sec-2)
+}
