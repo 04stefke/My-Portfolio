@@ -76,3 +76,20 @@ nav a{
 .name:hover{
     color: var(--sec-2)
 }
+
+.about-container{
+    height: 600px;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    padding: 20px 10%;
+    text-align: end;
+}
+
+.about-me{
+    width: 500px;
+}
+
+.highlight{
+    color: var(--fc-2);
+}
