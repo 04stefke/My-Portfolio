@@ -207,3 +207,57 @@ nav a{
     background-color: black;
     border: 1px solid white;
 }
+
+.contact-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.contact-form{
+    padding-bottom: 30px;
+}
+.contact-form h1{
+    color: var(--fc-2);
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.fed{
+    color: var(--fc-2);
+}
+
+.form input{
+    border: none;
+    outline: none;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.form {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 10px;
+}
+
+.textarea {
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 14px;
+}
+
+footer{
+    background-color: var(--bg-1);
+}
+
+.btn{
+    transition: .4s;
+}
+
+.btn:hover{
+    cursor: pointer;
+    background-color: #f3b7b2;
+}
