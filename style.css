@@ -93,3 +93,51 @@ nav a{
 .highlight{
     color: var(--fc-2);
 }
+
+.skills-container{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    padding: 20px 10%;
+    height: 600px;
+}
+
+.skill-items a {
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 60px;
+    height: 60px;
+    background-color: transparent;
+    border: 2px solid var(--fc-2);
+    border-radius: 15px;
+    color: var(--fc-2);
+    text-decoration: none;
+    z-index: 1;
+    overflow: hidden;
+    transition: .5s;
+    margin-right: 40px;
+    margin-top: 30px;
+}
+
+.skill-items a:hover{
+    color: var(--bg-2);
+}
+
+.skill-items a::before{
+    content:"";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 0;
+    height: 100%;
+    z-index: -1;
+    transition: .5s;
+}
+
+.skill-items a:hover::before{
+    width: 100%;
+    background-color: var(--fc-2);
+}
+
