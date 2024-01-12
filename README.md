@@ -17,11 +17,26 @@ Welcome to my personal portfolio website. My name is Stefan Jovanovic, a Front-E
         - Redux ToolKit
 
 - Project 2: [ToDo-App]
-      - ToDo App is supposed to make your life easier, you can add, remove, and update tasks and mark them as finished
-      - In the process of finishing this project, a few technologies were used:
-          - HTML
-          - CSS
-          - JavaScript
-          - React
+    - ToDo App is supposed to make your life easier, you can add, remove, and update tasks and mark them as finished
+    - In the process of finishing this project, a few technologies were used:
+        - HTML
+        - CSS
+        - JavaScript
+        - React
+     
+## Skills
+My programming skills are: 
+    - HTML5
+    - CSS3
+    - JavaScript
+    - React/Redux
+    - Redux Toolkit
+    - GitHub
+
+## Education:
+[Learning People] - I have finished this course in early 2024. This course was for a Front-End-Developer and also ISTQB
+
+    
+  
 
 
