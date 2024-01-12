@@ -37,9 +37,9 @@ My programming skills are:
 
 ## Contact
 I am available for contact on major social media and my email:
-- [Email]: [jovanovics399@gmail.com]
-- [GitHub]: [04stefke]
-- [Instagram]: [stefke.9.9]
+- [Email]: [jovanovics399@gmail.com ]
+- [GitHub]: [04stefke ]
+- [Instagram]: [stefke.9.9 ]
 - [Facebook]: [Stefan Jovanovic]
     
 
