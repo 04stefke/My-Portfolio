@@ -26,17 +26,26 @@ Welcome to my personal portfolio website. My name is Stefan Jovanovic, a Front-E
      
 ## Skills
 My programming skills are: 
-    - HTML5
-    - CSS3
-    - JavaScript
-    - React/Redux
-    - Redux Toolkit
-    - GitHub
+- HTML5
+- CSS3
+- JavaScript
+- React/Redux
+- GitHub
 
 ## Education:
-[Learning People] - I have finished this course in early 2024. This course was for a Front-End-Developer and also ISTQB
+[Learning People, 'Front-End-Developer'] - I have finished this course in early 2024. This course included the ISTQB and a few portfolio projects.
 
+## Contact
+I am available for contact on major social media and my email:
+- [Email]: [jovanovics399@gmail.com]
+- [GitHub]: [04stefke]
+- [Instagram]: [stefke.9.9]
+- [Facebook]: [Stefan Jovanovic]
     
+
+
+
+## I want to thank Learning People for their will to teach me Web Development and also the friendly stuff they have and always happy to help and available all the time!!
   
 
 
